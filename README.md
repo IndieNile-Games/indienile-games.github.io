@@ -4,4 +4,4 @@
 
 Official GitHub Pages Site for LettuceMan Studios
 
-[Kepler Delivery Inc](/VimJam-2020-Game-Jam-Entry)
+[Kepler Delivery Inc](/Kepler-Delivery-Inc)
