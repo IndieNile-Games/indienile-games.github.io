@@ -1,7 +1,7 @@
 # LettuceMan Studios
 
-![LMS Logo](/logo.png)
+![LMS Logo](https://lms-github.gavinhsmith.tk/logo.png)
 
 Official GitHub Pages Site for LettuceMan Studios
 
-[Kepler Delivery Inc](/Kepler-Delivery-Inc)
+[Kuiper Delivery Inc](/Kuiper-Delivery-Inc)
