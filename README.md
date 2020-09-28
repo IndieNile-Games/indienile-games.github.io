@@ -4,4 +4,4 @@
 
 Official GitHub Pages Site for LettuceMan Studios
 
-[Kuiper Delivery Inc](/Kuiper-Delivery-Inc)
+[Kuiper Delivery Inc](https://lms-github.gavinhsmith.tk/Kuiper-Delivery-Inc)
