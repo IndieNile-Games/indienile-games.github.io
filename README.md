@@ -1,7 +1,7 @@
-# LettuceMan Studios
+# IndieNile Games
 
 ![LMS Logo](https://indienile-games.github.io/logo.png)
 
-Official GitHub Pages Site for LettuceMan Studios
+LettuceMan Studios has become **IndieNile Games**!
 
 [Kuiper Delivery Inc](https://indienile-games.github.io/Kuiper-Delivery-Inc)
