@@ -1,7 +1,7 @@
 # LettuceMan Studios
 
-![LMS Logo](https://lettucemanstudios.tk/logo.png)
+![LMS Logo](https://indienile-games.github.io/logo.png)
 
 Official GitHub Pages Site for LettuceMan Studios
 
-[Kuiper Delivery Inc](https://kuiper.lettucemanstudios.tk)
+[Kuiper Delivery Inc](https://indienile-games.github.io/Kuiper-Delivery-Inc)
