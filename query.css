@@ -2,7 +2,7 @@
     .main {
         width: 100%;
         margin-right: 0;
-        padding: 2%;
+        padding: 5%;
     }
     .column {
         display: none;
@@ -17,5 +17,8 @@
     }
     .post-image {
         width: 100%;
+    }
+    .front-post {
+        padding: 0%;
     }
 }
