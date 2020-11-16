@@ -34,7 +34,11 @@
 }
 .link {
     font-size: 150%;
-    margin-right: 20%;
+    padding: 0 1%;
+    display: inline-block
+}
+.bottom-center:first-child {
+    font-size: 0;
 }
 a {
     color: black;
@@ -46,6 +50,7 @@ a {
     width: 100%;
     background-color: white;
     color: black;
+    float: left;
     height: 100%;
     transition: filter 0.5s;
 }
@@ -53,5 +58,5 @@ a {
     filter: invert(1);
 }
 .flexbox {
-    display: inline-flex;
+    /*display: inline-flex;*/
 }
