@@ -79,3 +79,9 @@ p {
 .column {
     width: 24%;
 }
+.footer {
+    text-align: center; 
+}
+.footertext {
+    padding: 1%;
+}

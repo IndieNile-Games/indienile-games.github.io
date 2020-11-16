@@ -1,23 +1,37 @@
 @media only screen and (max-width: 800px) {
-    .column {
-        display: none;
-    }
     .content {
         margin: 0%;
     }
     .content > div {
         margin-bottom: 0%;
         border-radius: 0px;
+        padding: 0%;
+    }
+    .column {
+        width: 100%;
+        margin-right: 0;
+        margin-top: 2%;
+        padding: 7%;
     }
     .main {
         width: 100%;
         margin-right: 0;
+        margin-top: 2%;
         padding: 5%;
     }
     .post-image {
         width: 100%;
     }
+    .post-title, .post-info, .post-text, .title {
+        padding: 0% 2.5%;
+    }
     .front-post {
         padding: 0%;
+        padding-bottom: 2.5%;
+    }
+    .widget {
+        margin-top: 2%;
+        margin-left: 5%;
+        width: 90%;
     }
 }
