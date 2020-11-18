@@ -22,8 +22,15 @@
     .post-image {
         width: 100%;
     }
-    .post-title, .post-info, .post-text, .title {
-        padding: 0% 2.5%;
+    .post-textelm {
+        margin: 2%;
+    }
+    .post-title, .post-info {
+        padding: 1%;
+    }
+    .title {
+        margin: 1%;
+        margin-bottom: 0%;
     }
     .front-post {
         padding: 0%;
@@ -33,5 +40,8 @@
         margin-top: 2%;
         margin-left: 5%;
         width: 90%;
+    }
+    .shelf-entrie {
+        width: 48%;
     }
 }
